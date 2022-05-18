@@ -25,14 +25,15 @@ svg {
   animation-direction: reverse;
   opacity: .6
 }
+
 #wave3 {
   animation-duration: 7s;
   opacity:.3;
 }
+
 @keyframes wave {
   to {transform: translateX(-100%);}
 }
-
 
 </style>
 
@@ -52,7 +53,7 @@ svg {
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
 <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
   <a xlink:href="https://github.com/msfpt" target="_top">
-  <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
+  <text y="39" font-family="Verdana, Arial, sans-serif, serif" fill="#777" font-size="2px">
     @MsfPt
   </text>
   </a>
