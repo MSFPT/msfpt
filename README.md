@@ -24,7 +24,7 @@ I'm interested in programming & technology & music.
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1da1f2?style=flat-square&labelColor=1da1f2&logo=telegram&logoColor=white&link=https://t.me/msfpt)](https://t.me/msfpt)
 [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-f50?style=flat-square&labelColor=f50&logo=soundcloud&logoColor=white&link=https://soundcloud.com/mosaken)](https://soundcloud.com/mosaken)
 [![Skyline Badge](https://img.shields.io/badge/-Skyline-541690?style=flat-square&labelColor=541690&logo=github&logoColor=white&link=https://skyline.github.com/msfpt)](https://skyline.github.com/msfpt)
-[![visitors this](https://visitor-badge.laobi.icu/badge?page_id=msfpt)](https://skyline.github.com/msfpt/)
+![visitors this](https://visitor-badge.laobi.icu/badge?page_id=msfpt)
 
 
 ![Wave](https://raw.githubusercontent.com/MSFPT/msfpt/main/bottom_header.svg)
