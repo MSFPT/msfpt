@@ -30,4 +30,4 @@ I'm interested in programming & technology & music.
 ![visitors this](https://visitor-badge.laobi.icu/badge?page_id=msfpt)
 
 
-![Wave](https://raw.githubusercontent.com/msfpt/msfpt/main/bottom_header.svg)
+![Wave](https://raw.githubusercontent.com/msfpt/msfpt/main/bottom_header.svg#msfpt)
