@@ -1,0 +1,41 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .flow {
+          height: 50px;	
+          overflow: hidden;
+          position: relative;
+        }
+        .flow strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
+          color: #32cdb4;
+          position: absolute;
+          font-size: 1.2em;
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          line-height: 50px;
+          text-align: center;
+
+          transform:translateX(100%);
+
+          animation: flow 7s linear infinite;
+        }
+
+        @keyframes flow {
+          0%   { 
+            transform: translateX(100%); 		
+          }
+          100% { 
+            transform: translateX(-80%); 
+          }
+        }
+      </style>
+      <div class="flow">
+        <strong>Thanks for visiting my profile, see you next time!</strong>
+        <text y="39" font-family="Verdana, Arial, sans-serif, serif" fill="#777" font-size="2px">@MsfPt</text>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
