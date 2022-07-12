@@ -8,8 +8,8 @@ I'm interested in programming & technology & music.
 
 <!-- &count_private=true -->
 
-[![msfpt GitHub Stats](https://github-readme-stats.vercel.app/api?username=msfpt&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=24&cache_seconds=.934)](https://github.com/msfpt)
-[![msfpt Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msfpt&langs_count=7&theme=tokyonight&layout=compact&cache_seconds=.919)](https://github.com/msfpt)
+[![msfpt GitHub Stats](https://github-readme-stats.vercel.app/api?username=msfpt&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=24&cache_seconds=.834)](https://github.com/msfpt)
+[![msfpt Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msfpt&langs_count=7&theme=tokyonight&layout=compact&cache_seconds=.719)](https://github.com/msfpt)
 
 <!-- 
 ## Skill's :
